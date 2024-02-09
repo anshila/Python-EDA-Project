@@ -1,10 +1,13 @@
 # Python-EDA-Project
 Step 1: Import Python Libraries
 Import all libraries which are required for our analysis, such as Data Loading, Statistical analysis, Visualizations, Data Transformations etc.
+
 Step 2: Reading Dataset
 Using the read_csv() function, data can be converted to a pandas DataFrame.
+
 Step 3: Analyzing the Data
 The main goal of data understanding is to gain general insights about the data, which covers the number of rows and columns, values in the data, datatypes, and Missing values in the dataset.
+
 Step 4: Data Preprocessing
 The steps required to go from raw data to a format suitable to input to your ML model. For say a linear/logistic regression model, this would mean the input data needs to be converted to vector format (eg. imputing missing values, one-hot encoding categorical variables, etc). 
 Handling Missing Data:
